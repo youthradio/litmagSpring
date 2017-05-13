@@ -1,0 +1,471 @@
+.leftNav{
+      background-color: black;
+      color: white;
+    }  
+
+    hr{
+      color:white;
+      background-color:white;
+      width: 50%;
+    }
+
+    a{
+      color:white;
+      text-decoration: none;
+    }
+     a h4{
+      text-decoration: none;
+     }
+
+    h1{
+      font-family: 'Permanent Marker', cursive;
+      font-size: 3.5em;
+    }
+
+ h1:hover{
+  color: #3ec0be;
+  text-decoration: none;
+ }
+
+ul{
+  }
+
+li{
+  list-style: none;
+  float:left;
+  padding: 5%;
+
+}
+.display{
+  display: "none";
+}
+
+  
+
+
+li img{
+  height: 30px;
+  width: 30px;
+}
+
+h4:hover{
+  color: #3ec0be;
+}
+
+
+    .student{
+      color : white;
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+      padding: 20px;
+      height: 360px;
+      background-repeat:no-repeat;
+      margin-bottom: 5%;
+
+    }
+
+    
+
+.info{
+      margin-top: 45%;
+      margin-bottom: 10%;
+      display: none;
+    }
+
+    .jour:hover > .info{
+      display: block;
+
+    }
+
+    
+    }
+
+.mus:hover > .info{
+      display: block;
+
+    }
+
+.multi:hover > .info{
+      display: block;
+
+    }
+
+.one{
+  background-image: url("Anjelou2.jpg");
+
+}
+
+
+.one:hover{
+   background-image: 
+          linear-gradient(
+            rgba(62, 192, 190, 0.3),
+            rgba(62, 192, 190, 0.9)
+          ), url("Anjelou2.jpg");
+
+}
+
+.two{
+  background-image: url("Jordan2.jpg");
+
+}
+
+
+.two:hover{
+   background-image: 
+          linear-gradient(
+            rgba(234, 115, 23, 0.3),
+            rgba(234, 115, 23, 0.9)
+          ), url("Jordan2.jpg");
+
+}
+
+.three{
+  background-image: url("Hanif3.jpg");
+
+}
+
+
+.three:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
+          ), url("Hanif3.jpg");
+
+}
+
+.four{
+  background-image: url("Finley2.jpg");
+
+}
+
+
+.four:hover{
+   background-image: 
+          linear-gradient(
+            rgba(62, 192, 190, 0.3),
+            rgba(62, 192, 190,0.9)
+          ), url("Finley2.jpg");
+        }
+
+.five{
+  background-image: url("Mila2.jpg");
+
+}
+
+
+.five:hover{
+   background-image: 
+          linear-gradient(
+            rgba(62, 192, 190, 0.3),
+            rgba(62, 192, 190, 0.9)
+          ), url("Mila2.jpg");
+
+}
+
+.six{
+  background-image: url("Michael2.jpg");
+
+}
+
+
+.six:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
+          ), url("Michael2.jpg");
+
+}
+
+.seven{
+  background-image: url("Aoifa2.jpg");
+
+}
+
+
+.seven:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
+          ), url("Aoifa2.jpg");
+
+}
+
+
+.eight{
+  background-image: url("Junior2.jpg");
+
+}
+
+
+.eight:hover{
+   background-image: 
+          linear-gradient(
+            rgba(234, 115, 23, 0.3),
+            rgba(234, 115, 23, 0.9)
+          ), url("Junior2.jpg");
+
+}
+
+.nine{
+  background-image: url("Anjelou2.jpg");
+
+}
+
+
+.nine:hover{
+   background-image: 
+          linear-gradient(
+            rgba(234, 115, 23, 0.3),
+            rgba(234, 115, 23, 0.9)
+          ), url("Anjelou2.jpg");
+
+}
+
+.ten{
+  background-image: url("Anjelou2.jpg");
+
+}
+
+
+.ten:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
+          ), url("Anjelou2.jpg");
+
+}
+
+.elev{
+  background-image: url("");
+
+}
+
+
+.elev:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
+          ), url("");
+
+}
+
+.twelv{
+  background-image: url("Ibrahim2.jpg");
+
+}
+
+
+.twelv:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
+          ), url("Ibrahim2.jpg");
+
+}
+
+.thirteen{
+  background-image: url("Emilio2.jpg");
+
+}
+
+
+.thirteen:hover{
+   background-image: 
+          linear-gradient(
+            rgba(234, 115, 23, 0.3),
+            rgba(234, 115, 23, 0.9)
+          ), url("Emilio2.jpg");
+
+}
+
+.fourteen{
+  background-image: url("Cole2.jpg");
+
+}
+
+
+.fourteen:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
+          ), url("Cole2.jpg");
+
+}
+
+.fifteen{
+  background-image: url("Dame2.jpg");
+
+}
+
+
+.fifteen:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80, 0.9)
+          ), url("Dame2.jpg");
+
+}
+
+.sixteen{
+  background-image: url("Nina2.jpg");
+
+}
+
+
+.sixteen:hover{
+   background-image: 
+          linear-gradient(
+            rgba(62, 192, 190, 0.3),
+            rgba(62, 192, 190, 0.9)
+          ), url("Nina2.jpg");
+
+}
+
+.seventeen{
+  background-image: url("Savannah2.jpg");
+
+}
+
+
+.seventeen:hover{
+   background-image: 
+          linear-gradient(
+            rgba(234, 115, 23, 0.3),
+            rgba(234, 115, 23, 0.9)
+          ), url("Savannah2.jpg");
+
+}
+.eighteen{
+  background-image: url("Zahra2.jpg");
+
+}
+
+
+.eighteen:hover{
+   background-image: 
+          linear-gradient(
+            rgba(234, 115, 23, 0.3),
+            rgba(234, 115, 23, 0.9)
+          ), url("Zahra2.jpg");
+
+}
+
+.nineteen{
+  background-image: url("Jack2.jpg");
+
+}
+
+
+.nineteen:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80,  0.9)
+          ), url("Jack2.jpg");
+
+}
+
+.twenty{
+  background-image: url("Jack2.jpg");
+
+}
+
+
+.twenty:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80,  0.9)
+          ), url("Jack2.jpg");
+
+}
+
+.twOne{
+  background-image: url("Jack2.jpg");
+
+}
+
+
+.twOne:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80,  0.9)
+          ), url("Jack2.jpg");
+
+}
+
+
+.twSix{
+  background-image: url("Jack2.jpg");
+
+}
+
+
+.twSix:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80,  0.9)
+          ), url("Jack2.jpg");
+
+}
+
+
+.twSeven{
+  background-image: url("Jack2.jpg");
+
+}
+
+
+.twSeven:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80,  0.9)
+          ), url("Jack2.jpg");
+
+}
+
+
+.thOne{
+  background-image: url("Jack2.jpg");
+
+}
+
+
+.thOne:hover{
+   background-image: 
+          linear-gradient(
+            rgba(72, 2, 80, 0.3),
+            rgba(72, 2, 80,  0.9)
+          ), url("Jack2.jpg");
+
+}
+
+
+
+.thTwo{
+  background-image: url("Dakota2.jpg");
+
+}
+
+
+.thTwo:hover{
+   background-image: 
+          linear-gradient(
+            rgba(234, 115, 23, 0.3),
+            rgba(234, 115, 23, 0.9)
+          ), url("Dakota2.jpg");
+
+
+
