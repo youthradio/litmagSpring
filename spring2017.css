@@ -56,9 +56,10 @@ h4:hover{
     .student{
       color : white;
       background-repeat: no-repeat;
-      background-size: 100% 100%;
+      /*background-size: 100% 100%; */
       padding: 20px;
       height: 360px;
+
       background-repeat:no-repeat;
       margin-bottom: 5%;
 
@@ -91,7 +92,7 @@ h4:hover{
     }
 
 .one{
-  background-image: url("Anjelou2.jpg");
+  background-image: url("Heaven2.jpg");
 
 }
 
@@ -101,7 +102,7 @@ h4:hover{
           linear-gradient(
             rgba(62, 192, 190, 0.3),
             rgba(62, 192, 190, 0.9)
-          ), url("Anjelou2.jpg");
+          ), url("Heaven2.jpg");
 
 }
 
@@ -226,7 +227,7 @@ h4:hover{
 }
 
 .ten{
-  background-image: url("Anjelou2.jpg");
+  background-image: url("Cameron2.jpg");
 
 }
 
@@ -236,12 +237,12 @@ h4:hover{
           linear-gradient(
             rgba(72, 2, 80, 0.3),
             rgba(72, 2, 80, 0.9)
-          ), url("Anjelou2.jpg");
+          ), url("Cameron2.jpg");
 
 }
 
 .elev{
-  background-image: url("");
+  background-image: url("Leesie2.jpg");
 
 }
 
@@ -251,7 +252,7 @@ h4:hover{
           linear-gradient(
             rgba(72, 2, 80, 0.3),
             rgba(72, 2, 80, 0.9)
-          ), url("");
+          ), url("Leesie2.jpg");
 
 }
 
@@ -374,7 +375,7 @@ h4:hover{
 
 }
 
-.twenty{
+/*.twenty{
   background-image: url("Jack2.jpg");
 
 }
@@ -387,10 +388,10 @@ h4:hover{
             rgba(72, 2, 80,  0.9)
           ), url("Jack2.jpg");
 
-}
+} */
 
 .twOne{
-  background-image: url("Jack2.jpg");
+  background-image: url("Mariam2.jpg");
 
 }
 
@@ -400,7 +401,7 @@ h4:hover{
           linear-gradient(
             rgba(72, 2, 80, 0.3),
             rgba(72, 2, 80,  0.9)
-          ), url("Jack2.jpg");
+          ), url("Mariam2.jpg");
 
 }
 
@@ -438,7 +439,7 @@ h4:hover{
 
 
 .thOne{
-  background-image: url("Jack2.jpg");
+  background-image: url("Femi2.jpg");
 
 }
 
@@ -448,7 +449,7 @@ h4:hover{
           linear-gradient(
             rgba(72, 2, 80, 0.3),
             rgba(72, 2, 80,  0.9)
-          ), url("Jack2.jpg");
+          ), url("Femi2.jpg");
 
 }
 
