@@ -6,7 +6,7 @@
     hr{
       color:white;
       background-color:white;
-      width: 50%;
+      width: 60%;
     }
 
     a{
@@ -59,16 +59,16 @@ h4:hover{
       /*background-size: 100% 100%; */
       padding: 20px;
       height: 360px;
-
+      width: 360px;
+      border: solid white 10px ;
       background-repeat:no-repeat;
-      margin-bottom: 5%;
 
     }
 
     
 
 .info{
-      margin-top: 45%;
+      margin-top: 38%;
       margin-bottom: 10%;
       display: none;
     }
