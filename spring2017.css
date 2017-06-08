@@ -13,6 +13,10 @@
       color:white;
       text-decoration: none;
     }
+
+    a:hover{
+      color: #3ec0Be;
+    }
      a h4{
       text-decoration: none;
      }
@@ -423,7 +427,7 @@ h4:hover{
 
 
 .twSeven{
-  background-image: url("Robert.jpg");
+  background-image: url("Janai.jpg");
 
 }
 
@@ -433,7 +437,7 @@ h4:hover{
           linear-gradient(
             rgba(72, 2, 80, 0.3),
             rgba(72, 2, 80,  0.9)
-          ), url("Robert.jpg");
+          ), url("Janai.jpg");
 
 }
 
